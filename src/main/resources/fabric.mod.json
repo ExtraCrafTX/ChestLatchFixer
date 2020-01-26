@@ -10,12 +10,8 @@
   "contact": {},
   "license": "MIT",
   "icon": "assets/chestknobfixer/icon.png",
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "com.extracraftx.minecraft.chestknobfixer.ChestKnobFixer"
-    ]
-  },
+  "environment": "client",
+  "entrypoints": {},
   "depends": {
     "fabricloader": ">=0.4.0"
   },

@@ -3,7 +3,9 @@
   "package": "com.extracraftx.minecraft.chestknobfixer.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [],
-  "client": [],
+  "client": [
+    "ChestBlockEntityRendererMixin"
+  ],
   "server": [],
   "injectors": {
     "defaultRequire": 1
