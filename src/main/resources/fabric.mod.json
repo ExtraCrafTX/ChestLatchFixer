@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "chestknobfixer",
+  "version": "${version}",
+  "name": "ChestKnobFixer",
+  "description": "Fixes the knobs on chests so that they don't intersect when animating",
+  "authors": [
+    "ExtraCrafTX"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/chestknobfixer/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.extracraftx.minecraft.chestknobfixer.ChestKnobFixer"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.4.0"
+  },
+  "mixins": [
+    "chestknobfixer.mixins.json"
+  ]
+}
