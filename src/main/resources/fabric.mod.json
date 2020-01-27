@@ -7,7 +7,10 @@
   "authors": [
     "ExtraCrafTX"
   ],
-  "contact": {},
+  "contact": {
+    "sources": "https://github.com/ExtraCrafTX/ChestLatchFixer",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/chest-latch-fixer"
+  },
   "license": "MIT",
   "icon": "assets/chestlatchfixer/icon.png",
   "environment": "client",
@@ -17,5 +20,8 @@
   },
   "mixins": [
     "chestlatchfixer.mixins.json"
-  ]
+  ],
+  "custom": {
+    "modmenu:clientsideOnly": true
+  }
 }
