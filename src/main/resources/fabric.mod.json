@@ -3,7 +3,7 @@
   "id": "chestlatchfixer",
   "version": "${version}",
   "name": "ChestLatchFixer",
-  "description": "Fixes the latch on chests so that they don't intersect when animating",
+  "description": "Fixes the latch on chests so that they don't slide and intersect when animating",
   "authors": [
     "ExtraCrafTX"
   ],
