@@ -1,4 +1,4 @@
-package com.extracraftx.minecraft.chestknobfixer.mixin;
+package com.extracraftx.minecraft.chestlatchfixer.mixin;
 
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;

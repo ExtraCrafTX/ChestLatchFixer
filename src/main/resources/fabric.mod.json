@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "chestknobfixer",
+  "id": "chestlatchfixer",
   "version": "${version}",
-  "name": "ChestKnobFixer",
-  "description": "Fixes the knobs on chests so that they don't intersect when animating",
+  "name": "ChestLatchFixer",
+  "description": "Fixes the latch on chests so that they don't intersect when animating",
   "authors": [
     "ExtraCrafTX"
   ],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/chestknobfixer/icon.png",
+  "icon": "assets/chestlatchfixer/icon.png",
   "environment": "client",
   "entrypoints": {},
   "depends": {
     "fabricloader": ">=0.4.0"
   },
   "mixins": [
-    "chestknobfixer.mixins.json"
+    "chestlatchfixer.mixins.json"
   ]
 }

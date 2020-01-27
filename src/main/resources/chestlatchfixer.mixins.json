@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.extracraftx.minecraft.chestknobfixer.mixin",
+  "package": "com.extracraftx.minecraft.chestlatchfixer.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [],
   "client": [
