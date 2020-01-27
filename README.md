@@ -1,6 +1,7 @@
 # ChestLatchFixer [![Latest version][version-image]][version-link]
 
-Fixes the latches on chests so that they don't intersect when animating.
+Fixes the latches on chests so that they don't intersect when animating.  
+***Apparently Mojang will not be fixing this issue: https://bugs.mojang.com/browse/MC-170457***
 
 Before:  
 ![Before][before-image]
